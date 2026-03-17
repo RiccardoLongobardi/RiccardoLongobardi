@@ -7,9 +7,9 @@
 ## About Me
 
 - **Oracle SQL & PL/SQL** — advanced querying, materialized views, ETL delta processes
-- **Python** — pandas, data pipelines, cx_Oracle integration
 - **ETL & Data Engineering** — incremental loads, workflow management, data bonification
 - **Query Optimization** — execution plan analysis, index strategies
+- **Python** — pandas, data pipelines, cx_Oracle integration
 - **Avid gamer** — Path of Exile, Elden Ring, Baldur's Gate 3 and more
 
 ---
