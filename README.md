@@ -1,6 +1,6 @@
 # Hi, I'm Riccardo Longobardi
 
-**Data Analyst** based in Naples, Italy — passionate about turning raw data into actionable insights, with a strong focus on the **gaming industry**.
+**Senior Data Analyst** based in Naples, Italy — passionate about turning raw data into actionable insights, with a strong focus on the **gaming industry**.
 
 ---
 
@@ -10,14 +10,12 @@
 - **Python** — pandas, data pipelines, cx_Oracle integration
 - **ETL & Data Engineering** — incremental loads, workflow management, data bonification
 - **Query Optimization** — execution plan analysis, index strategies
-- **Avid gamer** — Path of Exile, League of Legends, Baldur's Gate 3 and more
+- **Avid gamer** — Path of Exile, Elden Ring, Baldur's Gate 3 and more
 
 ---
 
 ## What I'm Working On
 
-- Deepening my **C++** skills for game development contexts
-- Building a public portfolio of SQL & Python work samples
 - Actively seeking roles in **game data analytics**
 
 ---
