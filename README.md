@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Riccardo Longobardi
 
-<!--
-**RiccardoLongobardi/RiccardoLongobardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** based in Naples, Italy — passionate about turning raw data into actionable insights, with a strong focus on the **gaming industry**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- **Oracle SQL & PL/SQL** — advanced querying, materialized views, ETL delta processes
+- **Python** — pandas, data pipelines, cx_Oracle integration
+- **ETL & Data Engineering** — incremental loads, workflow management, data bonification
+- **Query Optimization** — execution plan analysis, index strategies
+- **Avid gamer** — Path of Exile, League of Legends, Baldur's Gate 3 and more
+
+---
+
+## What I'm Working On
+
+- Deepening my **C++** skills for game development contexts
+- Building a public portfolio of SQL & Python work samples
+- Actively seeking roles in **game data analytics**
+
+---
+
+## Featured Repository
+
+| Repository | Description |
+|---|---|
+| [sql-python-data-snippets](https://github.com/RiccardoLongobardi/sql-python-data-snippets) | Oracle SQL & Python snippets: ETL pipelines, materialized views, analytics queries |
+
+---
+
+## Tech Stack
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+*Open to Data Analyst / Data Engineer opportunities in the gaming industry.*
