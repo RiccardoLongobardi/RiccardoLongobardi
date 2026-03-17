@@ -20,14 +20,6 @@
 
 ---
 
-## Featured Repository
-
-| Repository | Description |
-|---|---|
-| [sql-python-data-snippets](https://github.com/RiccardoLongobardi/sql-python-data-snippets) | Oracle SQL & Python snippets: ETL pipelines, materialized views, analytics queries |
-
----
-
 ## Tech Stack
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
